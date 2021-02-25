@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Just practicing git-blogging
+permalink: /Hello-World/
 ---
 
 Also, I need to get used to web.
